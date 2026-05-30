@@ -1,3 +1,5 @@
+## Sources of images used in the study
+
 <https://go.liontravel.com/zh-tw/attraction/ehime-d%C5%8Dgo_onsen_honkan-q11641713>
 
 ![](./media/media/image1.jpg){width="4.263888888888889in"
